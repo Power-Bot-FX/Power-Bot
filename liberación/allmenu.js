@@ -2,7 +2,7 @@
 
 const allmenu2 = 
 `
-┌「 SOPORTE 」─
+┌「 🆂OPORTE 」─
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Grupo Oficial: ${prefix}soporte
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Reglas: ${prefix}reglas
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Estado: ${prefix}infobot
@@ -11,7 +11,7 @@ const allmenu2 =
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Unir a Gp: ${prefix}entrabot (+link)
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
-┌─「 ADMIN 」─
+┌─「 🅰DMIN 」─
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Bienvenida: ${prefix}welcome
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Antifake: ${prefix}antifake
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Antilink: ${prefix}antilink
@@ -28,7 +28,7 @@ const allmenu2 =
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Borrar Msg Bot: ${prefix}d
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
-┌────「 MIEMBROS 」─
+┌────「 🅼IEMBROS 」─
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Nivel: ${prefix}nivel 
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Sticker: ${prefix}sticker 
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Sticker a image: ${prefix}toimg
@@ -56,7 +56,7 @@ const allmenu2 =
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 
-┌────「 ENTRETENIMIENTO 」─
+┌────「 🅴NTRETENIMIENTO 」─
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Verdad o Reto: ${prefix}vor
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Chiste: ${prefix}chiste
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Top5: ${prefix}top5 (Algo)
@@ -64,7 +64,7 @@ const allmenu2 =
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 
-┌────「 OWNER/DUEÑO 」─
+┌────「 🅾WNER/🅳UEÑO 」─
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Modo Self/Privado: ${prefix}privado
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Poner el bot publico: : ${prefix}publico
 ◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Apagar Bot: ${prefix}apagar
