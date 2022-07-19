@@ -3,77 +3,77 @@
 const allmenu2 = 
 `
 ┌「 SOPORTE 」─
-◈ ☞Grupo Oficial: ${prefix}soporte
-◈ ☞Reglas: ${prefix}reglas
-◈ ☞Estado: ${prefix}infobot
-◈ ☞Creador: ${prefix}creador
-◈ ☞Registro: ${prefix}reg
-◈ ☞Unir a Gp: ${prefix}entrabot (+link)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Grupo Oficial: ${prefix}soporte
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Reglas: ${prefix}reglas
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Estado: ${prefix}infobot
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Creador: ${prefix}creador
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Registro: ${prefix}reg
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Unir a Gp: ${prefix}entrabot (+link)
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 ┌─「 ADMIN 」─
-◈ Bienvenida: ${prefix}welcome
-◈ Antifake: ${prefix}antifake
-◈ Antilink: ${prefix}antilink
-◈ Unir gente: ${prefix}add
-◈ Eliminar: ${prefix}kick
-◈ Promover: ${prefix}promote
-◈ Degradar: ${prefix}demote
-◈ Abri GP: ${prefix}grupo abrir
-◈ Cerrar: ${prefix}grupo cerrar
-◈ Cambiar name Gp: ${prefix}nombre
-◈ Cambiar desc GP: ${prefix}descripcion
-◈ Mencionar: ${prefix}hidetag
-◈ Lista miembros: ${prefix}todos
-◈ Borrar Msg Bot: ${prefix}d
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Bienvenida: ${prefix}welcome
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Antifake: ${prefix}antifake
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Antilink: ${prefix}antilink
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Unir gente: ${prefix}add
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Eliminar: ${prefix}kick
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Promover: ${prefix}promote
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Degradar: ${prefix}demote
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Abri GP: ${prefix}grupo abrir
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Cerrar: ${prefix}grupo cerrar
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Cambiar name Gp: ${prefix}nombre
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Cambiar desc GP: ${prefix}descripcion
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Mencionar: ${prefix}hidetag
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Lista miembros: ${prefix}todos
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Borrar Msg Bot: ${prefix}d
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 ┌────「 MIEMBROS 」─
-◈ Nivel: ${prefix}nivel 
-◈ Sticker: ${prefix}sticker 
-◈ Sticker a image: ${prefix}toimg
-◈ Lista de admin : ${prefix}listadmin
-◈ Link Gp: ${prefix}link
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Nivel: ${prefix}nivel 
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Sticker: ${prefix}sticker 
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Sticker a image: ${prefix}toimg
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Lista de admin : ${prefix}listadmin
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Link Gp: ${prefix}link
 ◈ 
 ◈ 
 ◈
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
-┌────「 MULTIMEDIA 」─
-◈ Music Mp3: ${prefix}ytmp3
-◈ Desc Video: ${prefix}ytmp4 (+link)
-◈ Busc Imagenes: ${prefix}imagen 
-◈ Buscar Wp: ${prefix}wp
-◈ Bus en Google: ${prefix}google
-◈ Nombre de cancion: ${prefix}quemusicaes (+link)
-◈ Texto a Voz: ${prefix}tts
-◈ Letra de cancion: ${prefix}letra (+ nombre)
-◈ Video En Reversa: : ${prefix}reversa.
-◈ Vida en rapido: ${prefix}vrapido
-◈ Video a lento: : ${prefix}vlento
-◈ Video sin sonido: ${prefix}sinsonido
-◈ Logos: ${prefix}logos
+┌────「 🅼ULTIMEDIA 」─
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Music Mp3: ${prefix}ytmp3
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Desc Video: ${prefix}ytmp4 (+link)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Busc Imagenes: ${prefix}imagen 
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Buscar Wp: ${prefix}wp
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Bus en Google: ${prefix}google
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Nombre de cancion: ${prefix}quemusicaes (+link)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Texto a Voz: ${prefix}tts
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Letra de cancion: ${prefix}letra (+ nombre)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Video En Reversa: : ${prefix}reversa.
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Vida en rapido: ${prefix}vrapido
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Video a lento: : ${prefix}vlento
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Video sin sonido: ${prefix}sinsonido
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Logos: ${prefix}logos
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 
 ┌────「 ENTRETENIMIENTO 」─
-◈ Verdad o Reto: ${prefix}vor
-◈ Chiste: ${prefix}chiste
-◈ Top5: ${prefix}top5 (Algo)
-◈ Pregunta: : ${prefix}pregunta (Pregunta)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Verdad o Reto: ${prefix}vor
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Chiste: ${prefix}chiste
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Top5: ${prefix}top5 (Algo)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Pregunta: : ${prefix}pregunta (Pregunta)
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 
 ┌────「 OWNER/DUEÑO 」─
-◈ Modo Self/Privado: ${prefix}privado
-◈ Poner el bot publico: : ${prefix}publico
-◈ Apagar Bot: ${prefix}apagar
-◈ Banear Usuario: ${prefix}ban
-◈ Top5: ${prefix}top5 (Algo)
-◈ Pregunta: : ${prefix}pregunta (Pregunta)
-◈ Quitar admin a todos: ${prefix}demoteall
-◈ Dar admin a todos: ${prefix}promoteall
-◈ Eliminar a todos: ${prefix}fullkick
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Modo Self/Privado: ${prefix}privado
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Poner el bot publico: : ${prefix}publico
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Apagar Bot: ${prefix}apagar
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Banear Usuario: ${prefix}ban
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Top5: ${prefix}top5 (Algo)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Pregunta: : ${prefix}pregunta (Pregunta)
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Quitar admin a todos: ${prefix}demoteall
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Dar admin a todos: ${prefix}promoteall
+◈ ✦ৎ❥̤֟٭ۣۜ፝͜͡Eliminar a todos: ${prefix}fullkick
 ◈ 
 └────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 `
