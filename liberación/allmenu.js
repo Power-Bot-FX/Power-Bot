@@ -3,13 +3,13 @@
 const allmenu2 = 
 `
 ┌「 SOPORTE 」─
-◈ Grupo Oficial: ${prefix}soporte
-◈ Reglas: ${prefix}reglas
-◈ Estado: ${prefix}infobot
-◈ Creador: ${prefix}creador
-◈ Registro: ${prefix}reg
-◈ Unir a Gp: ${prefix}entrabot (+link)
-└────────────────「 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 」
+◈ ☞Grupo Oficial: ${prefix}soporte
+◈ ☞Reglas: ${prefix}reglas
+◈ ☞Estado: ${prefix}infobot
+◈ ☞Creador: ${prefix}creador
+◈ ☞Registro: ${prefix}reg
+◈ ☞Unir a Gp: ${prefix}entrabot (+link)
+└────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 ┌─「 ADMIN 」─
 ◈ Bienvenida: ${prefix}welcome
@@ -26,7 +26,7 @@ const allmenu2 =
 ◈ Mencionar: ${prefix}hidetag
 ◈ Lista miembros: ${prefix}todos
 ◈ Borrar Msg Bot: ${prefix}d
-└────────────────「 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 」
+└────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 ┌────「 MIEMBROS 」─
 ◈ Nivel: ${prefix}nivel 
@@ -37,7 +37,7 @@ const allmenu2 =
 ◈ 
 ◈ 
 ◈
-└────────────────「 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 」
+└────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 ┌────「 MULTIMEDIA 」─
 ◈ Music Mp3: ${prefix}ytmp3
@@ -53,7 +53,7 @@ const allmenu2 =
 ◈ Video a lento: : ${prefix}vlento
 ◈ Video sin sonido: ${prefix}sinsonido
 ◈ Logos: ${prefix}logos
-└────────────────「 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 」
+└────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 
 ┌────「 ENTRETENIMIENTO 」─
@@ -61,7 +61,7 @@ const allmenu2 =
 ◈ Chiste: ${prefix}chiste
 ◈ Top5: ${prefix}top5 (Algo)
 ◈ Pregunta: : ${prefix}pregunta (Pregunta)
-└────────────────「 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 」
+└────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 
 
 ┌────「 OWNER/DUEÑO 」─
@@ -75,7 +75,7 @@ const allmenu2 =
 ◈ Dar admin a todos: ${prefix}promoteall
 ◈ Eliminar a todos: ${prefix}fullkick
 ◈ 
-└────────────────「 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 」
+└────────────────「 𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 」
 `
 module.exports = {
     allmenu,
