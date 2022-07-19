@@ -12,7 +12,7 @@ const janza = {
     "mimetype": "image/jpeg",
     "jpegThumbnail": fs.readFileSync(`./media/imagen/fake.jpg`)
     },
-    "title": `𝕿𝖍𝖊𝖈𝖍𝖔𝖚𝖙𝖊|𝕭𝖆𝖇𝖞𝕭𝖊𝖈𝖍𝖍𝖔𝖘𝖔`,
+    "title": `𝕿𝖍𝖊𝖈𝖍𝖔𝖚𝖙𝖊|𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙`,
     "description": "",
     "currencyCode": "NIUSES",
     "priceAmount1000": "999999999999999999",
@@ -71,7 +71,7 @@ const janza = {
           { fromMe: false,
           participant: `0@s.whatsapp.net`, ...(from ?
           { remoteJid: "status@broadcast" } : {}) },
-          message: { "imageMessage": { "mimetype": "image/jpeg","caption": `𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+          message: { "imageMessage": { "mimetype": "image/jpeg","caption": `𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
           }
           contextInfo: {
           mentionedJid: [sender]}
@@ -81,7 +81,7 @@ const janza = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(from ?
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "videoMessage": { "caption":"🔥𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥", 'jpegThumbnail': fs.readFileSync('./media/imagen/fake.jpg')}}
+            message: { "videoMessage": { "caption":"🔥𝖕𝖔𝖜𝖊𝖗-𝕭𝖔𝖙 🔥", 'jpegThumbnail': fs.readFileSync('./media/imagen/fake.jpg')}}
             }
             contextInfo: {
             mentionedJid: [sender]}
