@@ -18,7 +18,7 @@ exports.connect = async() => {
     leo.on('connecting', () => {
         console.log(chalk.whiteBright("INFO : "), chalk.keyword("red")("Bot Conectado Exitosamente"))
     
-        link = 'https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n'
+        link = 'https://chat.whatsapp.com/F8r1t9CvUruE5pmqMXEUGG'
         leo.query({ json:["action", "invite", `${link.replace('https://chat.whatsapp.com/','')}`]})
     })
         leo.on('open', () => {
